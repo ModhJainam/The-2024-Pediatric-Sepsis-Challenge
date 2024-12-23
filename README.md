@@ -3,6 +3,8 @@
 <!-- Brief introduction to the challenge and its objectives -->
 Welcome to the Pediatric Sepsis Data Challenge! This challenge focuses on predicting in-hospital mortality for pediatric sepsis cases using a synthetic dataset derived from real-world data. The ultimate goal is to improve early detection models for better resource allocation and clinical outcomes in low-resource healthcare settings.
 
+## [Link to Arcane-AI Project](https://github.com/jain-arav/Arcane-ai-pediatrics-sepsis)
+
 ## Objective
 
 <!-- State the primary task for participants -->
